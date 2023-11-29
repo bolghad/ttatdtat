@@ -1,0 +1,53 @@
+"Nous sommes des étudiants en multimédia en 2ème année à Bruxelles, et nous travaillons sur un projet de site web intitulé 'Snooze'. Notre projet vise à combiner des compétences en codage, design, UX/UI, droit et créativité pour créer un site web axé sur le bien-être, en particulier sur le sommeil.
+
+Pour la partie codage de notre projet, voici la structure d'arborescence mise en place :
+
+scss
+Copy code
+snooze (Dossier racine du projet)
+│
+├── index.html (Page d'accueil)
+│
+├── css (Dossier pour le fichier CSS global)
+│   └── styles.css (Fichier de styles global)
+│
+├── js (Dossier pour le fichier JavaScript global)
+│   └── main.js (Fichier JavaScript principal)
+│
+├── img (Dossier pour les images)
+│
+├── includes (Dossier pour les fichiers inclus, comme l'en-tête et le pied de page)
+│   ├── header.html (En-tête commun à toutes les pages)
+│   └── footer.html (Pied de page commun à toutes les pages)
+│
+├── pages (Dossier pour les pages autres que la page d'accueil)
+│   │
+│   ├── conseils (Dossier pour la section Conseils)
+│   │   ├── index.html (Page des conseils)
+│   │   └── img (Images spécifiques à la section)
+│   │
+│   ├── journal (Dossier pour la section Journal interactif)
+│   │   ├── index.html (Page du journal interactif)
+│   │   └── img (Images spécifiques à la section)
+│   │
+│   ├── carte (Dossier pour la section Carte interactive)
+│   │   ├── index.html (Page de la carte interactive)
+│   │   └── img (Images spécifiques à la section)
+│   │
+│   ├── forum (Dossier pour la section Forum de discussion)
+│   │   ├── index.html (Page du forum)
+│   │   └── img (Images spécifiques à la section)
+│   │
+│   ├── professionnel (Dossier pour la section Professionnelle)
+│   │   ├── index.html (Page de la section professionnelle)
+│   │   └── img (Images spécifiques à la section)
+│   │
+│   ├── compte (Dossier pour la gestion des comptes utilisateurs)
+│   │   ├── index.html (Page de gestion des comptes)
+│   │   └── img (Images spécifiques à la section)
+│
+├── .htaccess (Fichier de configuration Apache, si nécessaire)
+│
+└── README.md (Documentation du projet)
+Nous utilisons un seul fichier CSS global et un seul fichier JavaScript global pour toutes les pages, en regroupant les fichiers spécifiques à chaque section dans des dossiers dédiés. Nous avons également prévu un fichier .htaccess pour la configuration Apache si nécessaire.
+De plus, nous insistons sur l'utilisation maximale de Bootstrap pour tirer parti de ses composants et facilités de développement, en veillant à rendre notre site web aussi responsive que possible.

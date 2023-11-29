@@ -1,0 +1,15 @@
+"Nous sommes des étudiants en multimédia en 2ème année à Bruxelles, et nous travaillons sur un projet de site web intitulé 'Snooze'. Notre projet vise à combiner des compétences en codage, design, UX/UI, droit et créativité pour créer un site web axé sur le bien-être, en particulier sur le sommeil. Voici les principales sections que nous avons envisagées pour le site :
+
+Page d'accueil : Cette section sera la première page que les visiteurs verront et elle doit être attrayante, informative et inviter les utilisateurs à explorer davantage le site.
+
+Section Conseils : Ici, nous souhaitons fournir des informations utiles sur les différents troubles du sommeil, ainsi que des conseils et des astuces pour améliorer la qualité du sommeil des utilisateurs.
+
+Journal interactif : Les utilisateurs pourront se connecter à leur compte personnel sur notre site web, où ils pourront suivre et enregistrer leur sommeil, obtenir des statistiques et des conseils personnalisés pour améliorer leurs habitudes de sommeil.
+
+Carte interactive : Cette section permettra aux visiteurs de visualiser les habitudes de sommeil à travers le monde, ce qui peut être à la fois informatif et inspirant pour ceux qui cherchent à améliorer leur sommeil.
+
+Forum de discussion : Un espace de discussion où les utilisateurs pourront partager leurs expériences, poser des questions, et interagir avec d'autres membres de la communauté.
+
+Section Professionnelle : Une partie du site qui permettra aux utilisateurs de contacter des professionnels de la santé.
+
+Commentaire : Ceci est un prompt afin de se souvenir des détails du projet sur lequel je vais poser des questions à Chat GPT."
